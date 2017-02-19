@@ -29,4 +29,7 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     // Compatibility
     compile "com.android.support:appcompat-v7:${androidVersion}"
+
+    //jitpack
+//    compile 'com.github.jitpack:gradle-simple:1.0'
 }
